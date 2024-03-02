@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Desktop/Predicting-Component-Sizing-in-Primary-Total-Knee-Arthroplasty-using-Demographic-Variables/Code/ForModeling/mlruns/761297845017815136/829afb80861e43d0ab2483e3b2538077/artifacts
+end_time: 1709317946849
+entry_point_name: ''
+experiment_id: '761297845017815136'
+lifecycle_stage: active
+run_id: 829afb80861e43d0ab2483e3b2538077
+run_name: caring-trout-246
+run_uuid: 829afb80861e43d0ab2483e3b2538077
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709317758568
+status: 3
+tags: []
+user_id: HP
